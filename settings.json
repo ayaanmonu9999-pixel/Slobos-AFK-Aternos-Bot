@@ -1,14 +1,14 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "AFK BOT",
+    "username": "TECHNOBLADE",
     "password": "",
     "type": "offline"
   },
   "server": {
     "ip": "Adaptive_SMP.aternos.me",
     "port": 57697,
-    "version": "",
+    "version": "1.21.5",
     "try-creative": false
   },
   "position": {
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "12344321"
+      "password": "MR_MR1239"
     },
     "anti-afk": {
       "enabled": true,
