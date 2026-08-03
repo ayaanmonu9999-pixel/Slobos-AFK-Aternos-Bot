@@ -1,15 +1,15 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "tera baap",
-    "password": "",
+    "username": "senpaigamerz",
+    "password": "88948230",
     "type": "offline"
   },
   "server": {
-    "ip": "BUILD_BATTLE_SMP.aternos.me",
-    "port": 47821,
-    "version": "1.21.5",
-    "try-creative": false
+    "ip": "Play-LordsMC.aternos.me",
+    "port": 57697,
+    "version": "1.21.11",
+    "try-creative": true
   },
   "position": {
     "enabled": true,
@@ -20,7 +20,7 @@
   "utils": {
     "auto-auth": {
       "enabled": true,
-      "password": "MR_MR12359"
+      "password": "MR_MR12345"
     },
     "anti-afk": {
       "enabled": true,
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to pahadieditzz!",
+        "THIS IS THS BEST SERVER",
         "I like to play Minecraft!"
       ]
     },
